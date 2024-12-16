@@ -1,4 +1,4 @@
-## Hi, I'm Aurélien Cardon 👋  
+## Hi, I'm Aurélien 👋  
 
 💊 **Pharmacist turned Data Scientist** 🌟  
 After years in the healthcare field, I decided to shift my career to dive into the fascinating world of data and artificial intelligence. My experience as a pharmacist taught me to analyze problems with precision, while data science allows me to explore innovative solutions.  
