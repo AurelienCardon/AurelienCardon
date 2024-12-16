@@ -1,24 +1,28 @@
-## Salut, moi c’est Aurélien Cardon 👋
+## Hi, I'm Aurélien Cardon 👋  
 
-### 💊 Pharmacien devenu Data Scientist 🌟  
-Après des années dans le domaine de la santé, j’ai décidé de réorienter ma carrière pour plonger dans le monde fascinant des données et de l’intelligence artificielle. Mon expérience en pharmacie m’a appris à analyser les problèmes avec précision, tandis que la data science me permet d’explorer des solutions innovantes.
+💊 **Pharmacist turned Data Scientist** 🌟  
+After years in the healthcare field, I decided to shift my career to dive into the fascinating world of data and artificial intelligence. My experience as a pharmacist taught me to analyze problems with precision, while data science allows me to explore innovative solutions.  
 
-### 🚀 Ce que je fais actuellement  
-- 🔬 **Analyse de données complexes** : J'aimerai travailler sur des projets mêlant **santé** et **intelligence artificielle**, mais aussi d'autres domaines qui m'interesserait comme les liens entre science des données et finance digitale 💲  
-- 🌍 **Projets impactants** : Mon objectif est de transformer les données en actions concrètes qui améliorent la vie des gens.
 
-### 🔧 Compétences techniques  
-- **Langages** : Python (Pandas, Numpy, Scikit-learn, TensorFlow, PyTorch) | SQL  
-- **Data Science** : Machine Learning, Deep Learning, NLP, Computer Vision  
-- **Outils** : Jupyter, Streamlit, Docker, Google Cloud, FastAPI  
+### 🚀 What I'm currently working on  
+- 🔬 **Analyzing complex data**: I aspire to work on projects that combine **healthcare** and **artificial intelligence**, as well as explore other areas of interest, such as the intersection of data science and digital finance 💲.  
+- 🌍 **Impact-driven projects**: My goal is to turn data into actionable insights that improve people's lives.  
 
-### 💬 Parlons un peu plus de moi  
-- 👩‍🔬 Je combine rigueur scientifique et créativité dans mes projets.  
-- 🌱 J’adore partager mes connaissances avec la communauté et apprendre des autres.
-- ⚡ Fun fact : J’ai toujours rêvé de créer un assistant virtuel pour simplifier le quotidien des professionnels de santé !  
 
-### 📫 Me contacter  
-- **LinkedIn** : https://www.linkedin.com/in/acardon85/
-- **Email** : aureliencardon85@gmail.com
+### 🔧 Technical Skills  
+- **Languages**: Python (Pandas, Numpy, Scikit-learn, TensorFlow, PyTorch) | SQL  
+- **Data Science**: Machine Learning, Deep Learning, NLP, Computer Vision  
+- **Tools**: Jupyter, Streamlit, Docker, Google Cloud, FastAPI  
 
-✨ _"La technologie et la science ne valent que si elles servent à améliorer la vie des gens."_ ✨
+
+### 💬 A bit more about me  
+- 👩‍🔬 I combine scientific rigor with creativity in my projects.  
+- 🌱 I love sharing knowledge with the community and learning from others.  
+- ⚡ **Fun fact**: I've always dreamed of creating a virtual assistant to simplify the daily work of healthcare professionals!  
+
+
+### 📫 How to reach me  
+- **LinkedIn**: [My LinkedIn profile](https://www.linkedin.com/in/acardon85/)  
+- **Email**: aureliencardon85@gmail.com  
+
+✨ _"Technology and science are only valuable if they serve to improve people's lives."_ ✨  
