@@ -24,5 +24,3 @@ After years in the healthcare field, I decided to shift my career to dive into t
 ### 📫 How to reach me  
 - **LinkedIn**: [My LinkedIn profile](https://www.linkedin.com/in/acardon85/)  
 - **Email**: aureliencardon85@gmail.com  
-
-✨ _"Technology and science are only valuable if they serve to improve people's lives."_ ✨  
